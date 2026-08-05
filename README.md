@@ -24,21 +24,6 @@
 
 ---
 
-## About Me
-
-```yaml
-name: Fabian
-role: Software Developer (.NET / C#)
-focus: municipal / public-sector software (building administration, permit processes)
-os: [CachyOS (Arch), Arch Linux + GNOME]
-homelab: Raspberry Pi 5, Docker, n8n, PostgreSQL, Pi-hole, WireGuard
-currently_exploring: [Claude Code, MCP, Agent Tooling, AI-powered Skills]
-```
-
----
-
-## Tech Stack
-
 <div align="center">
 
 **Backend & Language**
@@ -78,14 +63,10 @@ currently_exploring: [Claude Code, MCP, Agent Tooling, AI-powered Skills]
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Fxbixn03&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&cache_seconds=21600&card_width=438)](https://github.com/Fxbixn03)
 
 [![Stats](https://github-readme-stats.shion.dev/api?username=Fxbixn03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)](https://github.com/Fxbixn03)
 </div>
-
----
 
 <div align="center">
