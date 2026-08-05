@@ -1,16 +1,93 @@
-## Hi there 👋
+<div align="center">
+<pre style="color:#2AA9E0; font-weight:bold; line-height:1.15; display:inline-block; text-align:left;">
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+</pre>
+  
+### .NET Developer · Linux · Selfhosting
 
-<!--
-**Fxbixn03/Fxbixn03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2AA9E0&center=true&vCenter=true&width=560&lines=C%23+%2F+.NET+for+municipal+software;Blazor+Server+%26+EF+Core;Linux+user+for+years%2C+CachyOS+%2B+Arch;Raspberry+Pi+5+Homelab+%26+Docker" alt="Typing SVG" />
+</div>
+<br>
+<div align="center">
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/Fxbixn03?label=Follow&style=for-the-badge&color=2AA9E0&logoColor=white)](https://github.com/Fxbixn03)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=Fxbixn03&style=for-the-badge&color=2AA9E0)](https://github.com/Fxbixn03)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## About Me
+
+```yaml
+name: Fabian
+role: Software Developer (.NET / C#)
+focus: municipal / public-sector software (building administration, permit processes)
+os: [CachyOS (Arch), Arch Linux + GNOME]
+homelab: Raspberry Pi 5, Docker, n8n, PostgreSQL, Pi-hole, WireGuard
+currently_exploring: [Claude Code, MCP, Agent Tooling, AI-powered Skills]
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Backend & Language**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Frontend & Web**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Data & Infrastructure**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**System & Tooling**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Docs & Config**
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Stats
+
+## GitHub Stats
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fxbixn03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fxbixn03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<br>
+<img src="https://streak-stats.demolab.com/?user=Fxbixn03&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+<div align="center">
