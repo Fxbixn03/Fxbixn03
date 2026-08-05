@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Fxbixn03/Fxbixn03/main/penguin.svg" height="180" />
-</div>
   
 ### .NET Developer · Linux · Selfhosting
 
