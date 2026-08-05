@@ -1,13 +1,6 @@
 <div align="center">
-<pre style="color:#2AA9E0; font-weight:bold; line-height:1.15; display:inline-block; text-align:left;">
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-</pre>
+  <img src="https://raw.githubusercontent.com/Fxbixn03/Fxbixn03/main/penguin.svg" height="180" />
+</div>
   
 ### .NET Developer · Linux · Selfhosting
 
@@ -60,9 +53,6 @@
 </div>
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Fxbixn03&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&cache_seconds=21600&card_width=438)](https://github.com/Fxbixn03)
-
-[![Stats](https://github-readme-stats.shion.dev/api?username=Fxbixn03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)](https://github.com/Fxbixn03)
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fxbixn03&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&cache_seconds=21600&card_width=438" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Fxbixn03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" height="180" />
 </div>
-
-<div align="center">
