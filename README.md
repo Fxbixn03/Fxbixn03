@@ -80,12 +80,10 @@ currently_exploring: [Claude Code, MCP, Agent Tooling, AI-powered Skills]
 
 ## GitHub Stats
 
-## GitHub Stats
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Fxbixn03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fxbixn03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<br>
-<img src="https://streak-stats.demolab.com/?user=Fxbixn03&theme=tokyonight&hide_border=true&background=0D1117" />
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Fxbixn03&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&cache_seconds=21600&card_width=438)](https://github.com/Fxbixn03)
+
+[![Stats](https://github-readme-stats.shion.dev/api?username=Fxbixn03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)](https://github.com/Fxbixn03)
 </div>
 
 ---
