@@ -22,8 +22,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 **Backend & Language**
@@ -60,8 +58,6 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 </div>
-
----
 
 <div align="center">
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Fxbixn03&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&cache_seconds=21600&card_width=438)](https://github.com/Fxbixn03)
