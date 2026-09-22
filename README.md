@@ -2,6 +2,10 @@
 
 ### .NET Developer · Linux · Selfhosting
 
+<div align="center">
+  <p>https://github.com/Fxbixn03/RepoList</p>
+</div>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2AA9E0&center=true&vCenter=true&width=560&lines=C%23+%2F+.NET+for+municipal+software;Blazor+Server+%26+EF+Core;Linux+user+for+years%2C+CachyOS+%2B+Arch;Raspberry+Pi+5+Homelab+%26+Docker" alt="Typing SVG" />
 </div>
 <br>
@@ -57,5 +61,4 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fxbixn03&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&cache_seconds=21600&card_width=438" height="180" />
   <img src="https://github-readme-stats.shion.dev/api?username=Fxbixn03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" height="180" />
-  <p>https://github.com/Fxbixn03/RepoList</p>
 </div>
